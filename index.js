@@ -30,4 +30,3 @@ app.post("/api/add_product", (req, res)=> {
     })
 });
     
-//something has chaneged
